@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.CenteredBox {
+  display: flex;
+  justify-content: center;
+}
+
+.Field {
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+  border: 2px solid lightgray;
+  justify-content: center;
+}
+
+.Card {
+  height: 200px;
+  width: 200px;
+  border: 2px solid darkblue;
+  margin: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
